@@ -1,0 +1,5 @@
+ mairie.barbonville@mairie-barbonville.fr
+ mairie-bariseyauplain@wanadoo.fr
+ communedebariseylacote@orange.fr
+ mairiebaslieux@yahoo.fr
+worksheet.insert_rows(1, [["email@lala.com"]])
